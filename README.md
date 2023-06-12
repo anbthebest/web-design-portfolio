@@ -1,4 +1,4 @@
-👋 Welcome to my web design portfolio! 🌐💻🎨
+👋 Welcome to my web design REPOSITORY! 🌐💻🎨
 
 This repository contains a collection of my web design projects, ranging from simple landing pages to full-scale web applications. Each project includes a detailed README file with information about the project, including its purpose, features, and technologies used.
 
